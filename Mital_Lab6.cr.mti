@@ -1,0 +1,43 @@
+C:/Users/rmita/Desktop/EE460M/MAC/EightBitFAdder.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/MAC/EightBitFAdder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EightBitFAdder
+
+Top level modules:
+	EightBitFAdder
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/MAC/Floating_Multiplier.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/MAC/Floating_Multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Floating_Multiplier
+
+Top level modules:
+	Floating_Multiplier
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/MAC/Multiplier.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/MAC/Multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Multiplier
+
+Top level modules:
+	Multiplier
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/MAC/FpMac.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/MAC/FpMac.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FpMac
+
+Top level modules:
+	FpMac
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/MAC/SystolicArr3x3.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/MAC/SystolicArr3x3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SysArr3x3
+
+Top level modules:
+	SysArr3x3
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/MAC/MAC.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/MAC/MAC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MAC
+
+Top level modules:
+	MAC
+
+} {} {}}
